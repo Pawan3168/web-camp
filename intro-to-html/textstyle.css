@@ -1,0 +1,47 @@
+p{
+    font-family:arial;
+}
+
+.header-text{
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+.header-down{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.another-line{
+    color:gray;
+    font-size: 14px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.again-line
+{
+    width: 300px;
+    color: gray;
+    line-height: 20px;
+    font-size: 15px;
+    margin-top: 0;
+    margin-bottom: 80px;
+}
+.apple-line{
+    margin-bottom: 50px;
+    font-size: 15px;
+    background-color: rgb(227, 65, 64);
+    text-align: center;
+    color: white;
+    padding-left: 16px;
+    padding-right:16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+} 
